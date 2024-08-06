@@ -30,7 +30,7 @@ Check out some of my <es><strong><a href = "https://open.spotify.com/user/4ycd6k
 playlists if you ❤ listening to music while you code. </br>
 If you want to know what I'm working on, check out my <es><strong><a href = "https://gist.github.com/jacobsanthosh">gist.</a></strong></es>
 
-Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/jacobsanthosh">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/jacobsanthosh">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
+Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/jacobsanthosh">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/jacobsanthosh">codeforces </a></strong></es> and to create <es><strong><a href = "https://jacobsanthosh.itch.io/">games.</a></strong></es>
 Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
 
 #### Interests: 
