@@ -7,11 +7,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Student:
+class Engineer:
 
     def __init__(self):
         self.name = "Jacob Santhosh"
-        self.role = "Software Engineer"
+        self.role = "Developer"
         self.language_spoken = ["Ma_IN", "en_US"]
 
     def say_hi(self):
@@ -24,13 +24,13 @@ me.say_hi()
 
 
 
-  <a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="linkedin" align="left"></a><a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="facebook" align="left"></a>
+  <a href="https://www.linkedin.com/in/jacobsanthosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="linkedin" align="left"></a><a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="facebook" align="left"></a>
 
 Check out some of my <es><strong><a href = "https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">Spotify  </a></strong></es>
 playlists if you ❤ listening to music while you code. </br>
-If you want to know what I'm working on, check out my <es><strong><a href = "https://gist.github.com/thesaravanakumar">gist.</a></strong></es>
+If you want to know what I'm working on, check out my <es><strong><a href = "https://gist.github.com/jacobsanthosh">gist.</a></strong></es>
 
-Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/VictorSullivan">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
+Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/jacobsanthosh">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/jacobsanthosh">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
 Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
 
 #### Interests: 
@@ -65,5 +65,5 @@ Although I have a Computer Engineering background, Google and Stack Overflow des
 <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="25" height="25" />
 </p>
 
-| [![Saravana Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=thesaravanakumar&count_private=true&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | <a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a> |
+| [![Jacob Santhosh's Github Stats](https://github-readme-stats.vercel.app/api?username=thesaravanakumar&count_private=true&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | <a href="https://github.com/jacobsanthosh"><img alt="Jacob Santhosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobsanthosh&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a> |
 | ------------- | ------------- |
